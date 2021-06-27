@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balvir
+- 👋 Hi, I’m @Balzhunter
 - 👀 I’m interested in making projects.
 - 🌱 I’m currently learning Ruby.
 - 💞️ I’m looking to collaborate on Ruby Projects.
