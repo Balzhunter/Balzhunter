@@ -7,7 +7,7 @@
 - 💞 I enjoy reading about good practices.
 
 ## GitHub Stats
-[![BalvirPurewal's GitHub stats](https://github-stats-balvirpurewal.vercel.app/api/?username=balzhunter&show_icons=true&theme=dracula)]
+[![BalvirPurewal's GitHub stats](https://github-stats-balvirpurewal.vercel.app/api/?username=balzhunter&show_icons=true&theme=tokyonight)]
 <!---
 Balzhunter/Balzhunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
