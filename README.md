@@ -8,6 +8,7 @@
 
 ## GitHub Stats
 ![BalvirPurewal's GitHub stats](https://github-stats-balvirpurewal.vercel.app/api/?username=balzhunter&show_icons=true&theme=tokyonight)
+
 ![BalvirPurewal's Top Languages](https://github-stats-balvirpurewal.vercel.app/api/top-langs/?username=balzhunter&theme=tokyonight&langs_count=5&hide=shell,typescript,css,html,scss)
 <!---
 Balzhunter/Balzhunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
