@@ -2,7 +2,7 @@
 - 👀 I’m interested in making projects.
 - 🏁 I’m looking to collaborate on open source projects.
 - 🌱 I’m currently learning about architecture.
-- 💬 Ask me about React JS ⚛️, Node JS, Typescript, AWS, Ruby, Ruby on Rails and VanillaJS.
+- 💬 Ask me about React JS ⚛️, Angular, Node JS, Typescript, AWS, Ruby, Ruby on Rails and VanillaJS.
 - 📫 How to reach me: By LinkedIn [BalvirPurewal](https://www.linkedin.com/in/balvir-purewal/) or by Gmail 📫 [Balvirp1](mailto:balvirp1@gmail.com)
 - 💞 I enjoy reading about good practices.
 
